@@ -1,4 +1,16 @@
 body {
-    background-color: beige;
-    color: #800080;
+    background-color: #800080;
+    color:#FFFFFF ;
+}
+ul {
+    background-color: #6B8E23
+}
+#button {
+    background-color:#2E8B57;
+}
+.buttonClass {
+    text-align: center;
+}
+.tbl {
+    background-color: #FF0000
 }
